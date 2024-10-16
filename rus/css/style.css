@@ -4262,7 +4262,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half:hover em {
-    background: #4467d9;
+    background: #fff;
     transform: scaleX(1);
 }
 
