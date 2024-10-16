@@ -2448,10 +2448,6 @@ ol.list-num-count.list-outline-none>li:before {
     color: #d3d3d3;
 }
 
-.text-red {
-    color: #99090A;
-}
-
 .text-green {
     color: #557131;
 }
@@ -2461,7 +2457,10 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .text-red {
-    color: #e74c28;
+    color: #e53838;
+}
+.text-blue {
+    color: #4467d9;
 }
 
 .text-light-blue {
