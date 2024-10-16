@@ -12180,7 +12180,7 @@ select {
     border: 0;
     outline: 0;
     font: inherit;
-    width: 20px;
+    width: 200px;
     padding: 5px;
     background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
       linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
