@@ -12177,4 +12177,5 @@ ol.commentlist li::after {
 
 .language-select {
     color: red;
+    border-radius: 0px;
 }
