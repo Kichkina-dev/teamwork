@@ -12185,7 +12185,7 @@ select {
     padding: 5px;
     margin: 5px;
     color: black;
-    border-radius: 1px;
+    border-radius: 100px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
     cursor: pointer;
     background-color: white;
