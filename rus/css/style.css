@@ -4185,7 +4185,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 .btn-half {
     cursor: pointer;
-    background-color: #000;
+    background-color: #fff;
     z-index: 0;
     display: inline-block;
     position: relative;
@@ -4242,7 +4242,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half.site-button:hover {
-    background-color: #000;
+    background-color: #fff;
 }
 
 .btn-half:hover:before {
