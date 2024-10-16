@@ -12176,7 +12176,6 @@ ol.commentlist li::after {
 }
 
 select {
-    position: fixed;
     appearance: none;
     border: 0;
     outline: 0;
