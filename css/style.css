@@ -12196,3 +12196,11 @@ option {
     color: inherit;
     background-color: white;
 }
+
+.call-button {
+    height: 100px;
+    width: 100px;
+    background-color: #0082CA;
+    float: left;
+    position: fixed;
+}
