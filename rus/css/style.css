@@ -4192,7 +4192,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half span {
-    color: #4467d9;
+    color: #fff;
     display: block;
     padding-left: 0%;
     padding-right: 25px;
@@ -4258,7 +4258,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half:hover span {
-    color: #4467d9;
+    color: #000;
 }
 
 .btn-half:hover em {
