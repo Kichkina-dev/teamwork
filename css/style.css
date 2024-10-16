@@ -12181,7 +12181,7 @@ select {
     outline: 0;
     font: inherit;
     width: 20rem;
-    padding: 1rem 4rem 1rem 1rem;
+    padding: 1px 4px 1px 1px;
     background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
       linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
     color: black;
