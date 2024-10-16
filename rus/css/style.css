@@ -4242,7 +4242,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half.site-button:hover {
-    background-color: #000;
+    background-color: #4467d9;
 }
 
 .btn-half:hover:before {
@@ -4258,7 +4258,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half:hover span {
-    color: #000;
+    color: #4467d9;
 }
 
 .btn-half:hover em {
