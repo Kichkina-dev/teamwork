@@ -4185,14 +4185,14 @@ ol.list-num-count.list-outline-none>li:before {
 
 .btn-half {
     cursor: pointer;
-    background-color: #fff;
+    background-color: #4467d9;
     z-index: 0;
     display: inline-block;
     position: relative;
 }
 
 .btn-half span {
-    color: #fff;
+    color: #4467d9;
     display: block;
     padding-left: 0%;
     padding-right: 25px;
@@ -4242,7 +4242,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half.site-button:hover {
-    background-color: #fff;
+    background-color: #000;
 }
 
 .btn-half:hover:before {
@@ -4258,11 +4258,11 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .btn-half:hover span {
-    color: #fff;
+    color: #4467d9;
 }
 
 .btn-half:hover em {
-    background: #fff;
+    background: #4467d9;
     transform: scaleX(1);
 }
 
