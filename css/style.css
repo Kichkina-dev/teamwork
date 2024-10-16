@@ -12174,3 +12174,7 @@ ol.commentlist li::after {
     padding: 15px;
     text-align: center;
 }
+
+.language-select {
+    margin-top: 50px;
+}
