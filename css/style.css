@@ -12180,8 +12180,8 @@ select {
     border: 0;
     outline: 0;
     font: inherit;
-    width: 20rem;
-    padding: 1px 4px 1px 1px;
+    width: 20px;
+    padding: 5px;
     background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
       linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
     color: black;
