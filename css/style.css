@@ -12180,7 +12180,7 @@ select {
     border: 0;
     outline: 0;
     font: inherit;
-    width: 70px;
+    width: 7px;
     text-align: center;
     padding: 5px;
     margin: 5px;
@@ -12188,11 +12188,11 @@ select {
     border-radius: 1px;
     box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
     cursor: pointer;
+    background-color: white;
     
 }
 
 option {
     color: inherit;
-    background-color: var(--option-bg);
     background-color: white;
 }
