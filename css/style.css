@@ -5415,7 +5415,7 @@ ol.list-num-count.list-outline-none>li:before {
 /*10.7 image-fade-in */
 
 .wt-img-effect.fade-in {
-    background: #000
+    background: #2e66e7
 }
 
 .wt-img-effect.fade-in img {
@@ -5433,7 +5433,7 @@ ol.list-num-count.list-outline-none>li:before {
 /*10.8 image-fade-out */
 
 .wt-img-effect.fade-out {
-    background: #000
+    background: #2e66e7
 }
 
 .wt-img-effect.fade-out:hover img {
