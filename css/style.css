@@ -5437,9 +5437,9 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .wt-img-effect.fade-out:hover img {
-    opacity: 0.7;
-    -moz-opacity: 0.7;
-    -webkit-opacity: 0.7;
+    opacity: 1;
+    -moz-opacity: 1;
+    -webkit-opacity: 1;
 }
 
 /*10.9 image-rotate */
