@@ -9013,6 +9013,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 .owl-carousel .owl-nav button.owl-next,
 .owl-carousel .owl-nav button.owl-prev {
+    background-color: #000;
     color: #fff;
     padding: 8px 10px;
     width: 28px;
