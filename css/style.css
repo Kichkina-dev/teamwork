@@ -11979,7 +11979,7 @@ ol.commentlist li::after {
 }
 
 .header-style-1 .navbar-toggler .icon-bar {
-    background: #4467d9;
+    background: #000;
     height: 3px;
     border-radius: 0;
     display: block;
