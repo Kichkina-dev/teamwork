@@ -2476,7 +2476,7 @@
             }
         },
         q = function(a, b, c) {
-            b.style = void 0 === b.style ? "" : b.style, b.left.style = void 0 === b.left.style ? "" : b.left.style, b.right.style = void 0 === b.right.style ? "" : b.right.style, 0 === a.find(".tp-leftarrow.tparrows").length && a.append('<div class=" ' + b.style + " " + b.left.style + '">' + b.tmp + "</div>"), 0 === a.find(".tp-rightarrow.tparrows").length && a.append('<div class=" ' + b.style + " " + b.right.style + '">' + b.tmp + "</div>");
+            b.style = void 0 === b.style ? "" : b.style, b.left.style = void 0 === b.left.style ? "" : b.left.style, b.right.style = void 0 === b.right.style ? "" : b.right.style, 0 === a.find("").length && a.append('<div class=" ' + b.style + " " + b.left.style + '">' + b.tmp + "</div>"), 0 === a.find(".tp-rightarrow.tparrows").length && a.append('<div class=" ' + b.style + " " + b.right.style + '">' + b.tmp + "</div>");
             var d = a.find(".tp-leftarrow.tparrows"),
                 e = a.find(".tp-rightarrow.tparrows");
             b.rtl ? (d.click(function() {
