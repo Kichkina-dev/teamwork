@@ -12208,3 +12208,7 @@ option {
 .dottt {
     color: white;
 }
+
+div.hilite-title.p-Ir20.m-tb20.text-right.text-uppercase.bdr-gray.bdr-right {
+    color: #000;
+}
