@@ -12164,48 +12164,10 @@ ol.commentlist li::after {
     text-align: center;
 }
 
-.qoqoqoq:hover {
-    scale: 1.5;
-}
-
-.language-select {
-    font-size: 18px;
-    padding: 10px;
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    border: 1px solid #ccc;
-}
-
-.language-select:hover {
-    background-color: #e0e0e0;
-    transform: scale(1.05);
-}
-
-.language-select:focus {
-    outline: none;
-    border: 2px solid #74ebd5;
-}
-
  .dropdown {
     position: relative;
     display: inline-block;
     width: 80%;
-}
-
-.language-select {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    font-size: 18px;
-    padding: 12px 20px;
-    border-radius: 25px;
-    background-color: #f2f2f2;
-    border: none;
-    color: #333;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-    width: 100%;
-    cursor: pointer;
-    text-align: center;
 }
 
 .dropdown::after {
