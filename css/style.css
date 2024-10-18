@@ -12195,23 +12195,3 @@ option {
     color: inherit;
     background-color: white;
 }
-
-.call-button {
-    height: 100px;
-    width: 100px;
-    background-color: #0082CA;
-    float: left;
-    position: fixed;
-}
-
-.dottt {
-    color: white;
-}
-
-div.hilite-title.p-Ir20.m-tb20.text-right.text-uppercase.bdr-gray.bdr-right {
-    color: #0082CA;
-} 
-
-.dbrpz {
-    opacity: 50%;
-}
