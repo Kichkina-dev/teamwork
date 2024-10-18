@@ -12217,16 +12217,6 @@ ol.commentlist li::after {
     color: #333;
 }
 
-.language-select:hover {
-    background-color: #e0e0e0;
-    transform: scale(1.05);
-}
-
-.language-select:focus {
-    outline: none;
-    border: 2px solid #74ebd5;
-}
-
 select {
     appearance: none;
     border: 0;
