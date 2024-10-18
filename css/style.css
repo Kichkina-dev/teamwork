@@ -12174,6 +12174,11 @@ ol.commentlist li::after {
     text-align: center;
 }
 
+.language-select:hover {
+    background-color: #e0e0e0;
+    transform: scale(1.05);
+}
+
 select {
     appearance: none;
     border: 0;
