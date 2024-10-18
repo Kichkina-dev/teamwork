@@ -263,6 +263,17 @@
     <!-- SHORTCODE FUCTIONS  -->
     </script>
 
+    <script>
+        function redirectToPage() {
+            var language = document.getElementById("language-dropdown").value;
+            if (language === "uzbek") {
+                window.location.href = "../index.html";
+            } else if (language === "russian") {
+                window.location.href = "../rus/2/project-detail.html";
+            }
+        }
+    </script>
+
 </body>
 
 </html>
