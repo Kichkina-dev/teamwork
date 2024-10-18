@@ -12165,3 +12165,25 @@ ol.commentlist li::after {
     padding: 15px;
     text-align: center;
 }
+
+select {
+    appearance: none;
+    border: 0;
+    outline: 0;
+    font: inherit;
+    width: 80px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    border-radius: 100px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    background-color: white;
+    
+}
+
+option {
+    color: inherit;
+    background-color: white;
+}
