@@ -568,7 +568,7 @@ Version: 3.0
 }
 
 body {
-    background-color: #a1a1a1;
+    background-color: #FFF;
     font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-weight: 400;
@@ -8144,18 +8144,18 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-nav .nav>li>a:hover {
-    background-color: #a1a1a1;
+    background-color: transparent;
     color: #212427;
 }
 
 .header-nav .nav>li>a:active,
 .header-nav .nav>li>a:focus {
-    background-color: #a1a1a1;
+    background-color: transparent;
 }
 
 .header-nav .nav>li.active>a,
 .header-nav .nav>li.current-menu-item>a {
-    background-color: #a1a1a1;
+    background-color: transparent;
     color: #ababab;
 }
 
@@ -8176,7 +8176,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-nav .nav>li .sub-menu {
-    background-color: #a1a1a1;
+    background-color: #ffffff;
     border: 1px solid #f4f4f4;
     display: block;
     left: 0;
@@ -8246,7 +8246,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-nav .nav>li .sub-menu li:hover>.sub-menu:before {
-    background-color: #a1a1a1;
+    background-color: transparent;
     bottom: 0px;
     content: '';
     display: block;
@@ -8268,7 +8268,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-nav .nav>li .mega-menu {
-    background-color: #a1a1a1;
+    background-color: #ffffff;
     border: 1px solid #e9e9e9;
     display: table;
     left: 0px;
@@ -8368,7 +8368,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
     right: 4px;
     top: 4px;
     color: #000;
-    background-color: #a1a1a1;
+    background-color: transparent;
     z-index: 900;
     cursor: pointer;
     padding: 10px;
@@ -8498,7 +8498,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
     max-width: 400px;
     height: 100%;
     z-index: 999;
-    background-color: #a1a1a1;
+    background-color: #fff;
     transition: all 0.5s linear;
     box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.3);
     -webkit-box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.3);
