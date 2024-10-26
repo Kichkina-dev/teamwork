@@ -568,7 +568,7 @@ Version: 3.0
 }
 
 body {
-    background-color: #FFF;
+    background-color: #d7bda4;
     font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-weight: 400;
@@ -7852,7 +7852,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
         margin: 9px 0;
     }
     .header-botton .navbar-toggle span {
-        background-color: #fff;
+        background-color: #edd7bf;
     }
     .header-botton .header-nav .nav>li>a {
         padding: 12px 12px;
