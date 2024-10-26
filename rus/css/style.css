@@ -7739,6 +7739,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 /*-----------------------------------*/
 
 .main-bar {
+    background-color: #d7bda4;
     position: relative;
     width: 100%;
     padding: 10px 0px;
@@ -8268,7 +8269,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .header-nav .nav>li .mega-menu {
-    background-color: #ffffff;
+    background-color: #d7bda4;
     border: 1px solid #e9e9e9;
     display: table;
     left: 0px;
