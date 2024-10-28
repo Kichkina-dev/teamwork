@@ -6732,8 +6732,6 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	15. blog grid-post
 -------------------------------------*/
 
-.blog-post .grid-post {}
-
 .blog-post .grid-post li {
     float: left;
     width: 50%;
