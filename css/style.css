@@ -81,7 +81,7 @@ address {
 }
 
 table {
-    background-color: transparent;
+    background-color: #d7bda4;
     width: 100%;
 }
 
@@ -678,12 +678,12 @@ ol.list-num-count.upper-alpha>li:before {
 
 ol.list-num-count.list-outline>li:before {
     border: 1px solid #000;
-    background-color: transparent;
+    background-color: #d7bda4;
     color: #000;
 }
 
 ol.list-num-count.list-outline-none>li:before {
-    background-color: transparent;
+    background-color: #d7bda4;
     color: #000;
 }
 
@@ -1922,7 +1922,7 @@ ol.list-num-count.list-outline-none>li:before {
 -------------------------------------*/
 
 .bg-transparent {
-    background-color: transparent;
+    background-color: #d7bda4;
 }
 
 .site-bg-primary {
