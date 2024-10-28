@@ -8,6 +8,10 @@
     }
 }
 
+* {
+    background-color: #d7bda4;
+}
+
 body {
     background-color: #a1a1a1;
     font-family: 'Poppins', sans-serif;
