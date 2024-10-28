@@ -7650,6 +7650,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
     display: block;
     font-size: 12px;
     padding: 10px 20px;
+    background-color: #d7bda4;
 }
 
 .header-nav .nav>li .sub-menu li a:hover {
