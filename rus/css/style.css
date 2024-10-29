@@ -12056,6 +12056,7 @@ ol.commentlist li::after {
     }
     .header-style-1 .header-nav .nav>li>a {
         background-color: #d7bda4;
+        color: #fff;
         display: block;
     }
     .header-style-1 .header-nav .nav>.has-child .submenu-toogle {
