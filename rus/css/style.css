@@ -12048,13 +12048,14 @@ ol.commentlist li::after {
     .header-style-1 .header-nav .nav {
         float: none;
         margin: 0px;
-        background: #d7bda4;
+        background: #fff;
         background-color: rgb(255, 255, 255);
         width: 100%;
         display: block;
         height: 100%;
     }
     .header-style-1 .header-nav .nav>li>a {
+        background-color: #d7bda4;
         display: block;
     }
     .header-style-1 .header-nav .nav>.has-child .submenu-toogle {
